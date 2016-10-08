@@ -88,7 +88,7 @@ def send_email():
         msg.attach(part)
 
     gmail_user = 'lenart.test1@gmail.com'
-    gmail_password = 'programiranje1test1'
+    gmail_password = 'try to guess it'
 
     try:
         server = smtplib.SMTP_SSL('smtp.gmail.com', 465)

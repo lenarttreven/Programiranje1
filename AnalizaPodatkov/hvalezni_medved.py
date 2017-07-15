@@ -37,7 +37,15 @@ medved. Zvrhano zibelko sladkih hrušk mi je prinesel za en sam izdrt trn"."""
 # >>> find_words(odlomek, 'de')
 # {'izdere', 'debel', 'oddide', 'začudeno'}
 ##########################################################################
-def najdi_besede(besedilo, podniz):
+import re
+
+def find_words(text, substring):
+    r = re.compile(r'\b\w*{}\w*\b'.format(substring))
+    return set(r.findall(text))
+
+
+
+'''def najdi_besede(besedilo, podniz):
     razdeljeno_besedilo = set()
     trenutni_niz = ''
     for znak in besedilo:
@@ -52,7 +60,7 @@ def najdi_besede(besedilo, podniz):
     for beseda in razdeljeno_besedilo:
         if podniz in beseda:
             ujemanje.add(beseda)
-    return ujemanje
+    return ujemanje'''
 
 
 ##########################################################################
@@ -70,7 +78,12 @@ def najdi_besede(besedilo, podniz):
 # >>> find_prefix(odlomek, 'zi')
 # {'zibala', 'zibel', 'zibelko'}
 ##########################################################################
-def starts_with(string, prefix):
+
+def find_prefix(text, prefix):
+    r = re.compile(r'\b{}\w*\b'.format(prefix))
+    return set(r.findall(text))
+
+'''def starts_with(string, prefix):
     if len(string) < len(prefix):
         return False
     else:
@@ -97,7 +110,7 @@ def find_prefix(text, prefix):
             matching.add(word)
     return matching
 
-
+'''
 
 
 ##########################################################################
@@ -115,7 +128,14 @@ def find_prefix(text, prefix):
 # >>> find_suffix(odlomek, 'la')
 # {'zibala', 'razveselila', 'prestrašila', 'šivala', 'opazila', 'tla'}
 ##########################################################################
-def ends_with(word, suffix):
+
+def find_suffix(text, suffix):
+    r = re.compile(r'\b\w*{}\b'.format(suffix))
+    return set(r.findall(text))
+
+
+
+'''def ends_with(word, suffix):
     if len(suffix) > len(word):
         return False
     else:
@@ -143,7 +163,7 @@ def find_suffix(text, suffix):
         if ends_with(word, suffix):
             matching.add(word)
     return matching
-
+'''
 ##########################################################################
 # 4) Sestavite funkcijo podvojene_crke(besedilo), ki sprejme niz besedilo
 # in vrne množico vseh besed, ki vsebujejo podvojene črke. Zgled:
@@ -158,7 +178,12 @@ def find_suffix(text, suffix):
 # >>> double_letters('A volunteer is worth twenty pressed men.')
 # {'volunteer', 'pressed'}
 ##########################################################################
-def double_in_word(word):
+
+def double_letters(text):
+    r = re.compile(r'\b(\w*(\w)\2\w*)\b')
+    return set(a[0] for a in r.findall(text))
+
+'''def double_in_word(word):
     for i in range(len(word) - 1):
         if word[i] == word[i + 1]:
             return True
@@ -179,4 +204,4 @@ def double_letters(text):
     for word in split_text:
         if double_in_word(word):
             matching.add(word)
-    return matching
+    return matching'''

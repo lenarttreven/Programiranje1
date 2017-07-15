@@ -1,0 +1,1167 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="sl"> <![endif]-->
+<!--[if IE 7 ]> <html class="ie ie7 no-js" lang="sl"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="sl"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="sl"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="sl"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. -->
+<head id="bolha-com" data-template-set="html5-reset">
+	<meta charset="utf-8">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<!--[if ie]><meta content='IE=8' http-equiv='X-UA-Compatible'/><![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/facetset.css?v=2.72" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/list.css?v=2.72" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/grid.css?v=2.72" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css?v=2.72" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/css/print.css?v=2.72" media="print" />
+<link rel="stylesheet" type="text/css" href="/css/main.css?v=2.72" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/css/backgrounds.css?v=2.72" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/css/element.header.css?v=2.72" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/footer.css?v=2.72" media="all" />
+<link rel="stylesheet" type="text/css" href="/assets/4b99faa/jui/css/base/jquery-ui.css?v=2.72" />
+<link rel="stylesheet" type="text/css" href="/css/advanced.search.css?v=2.72" media="all" />
+<script type="text/javascript" src="/assets/4b99faa/jquery.min.js"></script>
+<script type="text/javascript" src="/js/obj.range.slider.js?v=2.72"></script>
+<script type="text/javascript" src="/js/obj.savedAds.js?v=2.72"></script>
+<script type="text/javascript" src="/js/gridImagesLoad.js?v=2.72"></script>
+<script type="text/javascript" src="/js/listSorter.js?v=2.72"></script>
+<script type="text/javascript" src="/js/setViewTypeValue.js?v=2.72"></script>
+<script type="text/javascript" src="/js/jquery.lazyload.js?v=2.72"></script>
+<script type="text/javascript" src="/js/modernizr-1.7.min.js?v=2.72"></script>
+<script type="text/javascript" src="/js/CommonFunctions.js?v=2.72"></script>
+<script type="text/javascript" src="/js/json3.min.js?v=2.72"></script>
+<script type="text/javascript" src="/js/header.js?v=2.72"></script>
+<script type="text/javascript" src="/js/autoComplete.js?v=2.72"></script>
+<script type="text/javascript" src="/js/searchBox.js?v=2.72"></script>
+<script type="text/javascript" src="/js/obj.dialog.js?v=2.72"></script>
+<script type="text/javascript" src="/js/forms.js?v=2.72"></script>
+<script type="text/javascript" src="/js/jquery.outside-events.js?v=2.72"></script>
+<script type="text/javascript" src="/js/obj.afs.js?v=2.72"></script>
+<script type="text/javascript" src="/js/jquery.tinyscrollbar.min.js?v=2.72"></script>
+<script type="text/javascript" src="/js/obj.cookiesPolicy.js?v=2.72"></script>
+<title>Mačke :: bolha.com</title>
+	<meta name="keywords" content="mačka, muca, pasemska, mešanka" />
+	<meta name="description" content="Mačke &#8211; ste ljubitelji mačk in želite imeti kakšno tudi doma? Na Bolha.com lahko izbirate med različnimi vrstami pasemskih mačk, mešank ali mačk iz zavetišč." />
+	<meta name="apple-itunes-app" content="app-id=929743068" />
+	<meta property="fb:app_id" content="1721851598073383" />
+				<link rel="alternate" href="http://m.bolha.com/zivali/male-zivali/macke/?page=3">
+	<link href="/favicon.ico" type="image/x-icon" rel="icon"/>
+
+	<!-- Speaking of Google, don't forget to set your site up: http://google.com/webmasters -->
+	<meta name="author" content="bolha.com">
+	<meta http-equiv="refresh" content="900" />
+
+	<!-- blueprint CSS framework -->
+	
+	<!-- Google + -->
+	<link href="https://plus.google.com/113650998611688510656" rel="publisher" />
+
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie8.css?v=2.72" media="screen, projection" />
+	<![endif]-->
+
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="/css/ie7.css?v=2.72" media="screen, projection" />
+	<![endif]-->
+
+	<!--[if IE 6]>
+		<meta http-equiv="Refresh" content="0;url=/ie6.php">
+	<![endif]-->
+
+	
+	<!-- Iprom adServer -->
+	
+		<script type="text/javascript">
+		if(readValue("bolha:allow_cookies") == "action"
+			|| readValue("bolha:allow_cookies") == "all"
+			|| readValue("bolha:allow_cookies") == "track"
+			|| readValue("bolha:allow_cookies") == "undecided"
+		) {
+			var _iprom_consent = true;
+		}
+		else {
+			var _iprom_consent = false;
+		}
+
+		var iprom_MID="ebolha";
+		var iprom_SID="138";
+		var iprom_SSID="419";
+		var iprom_SECT="138:419:422:index";
+		var K_Word = "";
+		var iprom_CH = "";
+		var iprom_ZONES = [];
+
+		function readValue(key) {
+				var keyValue = document.cookie.match("(^|;) ?" + key + "=([^;]*)(;|$)");
+				return keyValue ? keyValue[2] : null;
+		}
+		</script>
+		
+	<!-- Facebook open graph meta tags  -->
+			<meta property="og:image" content="http://www.bolha.com/images/logotip-og.jpg" />
+	
+	
+</head>
+
+<body>
+
+	<!-- Google Tag Manager -->
+	<noscript>
+		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-NLX7VV" height="0" width="0" style="display:none;visibility:hidden">
+		</iframe>
+	</noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-NLX7VV');
+	</script>
+	<!-- End Google Tag Manager -->
+
+<!-- banner AdServer wallpaper  -->
+	<div class="banner"><div class="iAdserver" data-iadserver-zone="299"></div><script type="text/javascript">iprom_ZONES.push(299);</script></div>
+	<!-- top bar element  -->
+	<div class="top-bar">
+	<div class="wrapper">
+		<nav id="topMenu">
+			<ul>
+<li><script type="text/javascript">$('.itemVisibility').css('display','none');</script><a href="https://login.bolha.com/?Ref=PUJoZUPNTx2kTSSOvY-4DfQ34DYYrTNIq9h6_uTRJu_KGNrMhsIMHErwB6BfuO807hd6qFiTOOeEPg0jKA.." id="loginBoxOpen" class="_loginActionTrigger" action="https://login.bolha.com/auth.php" credentials="/api/topmenu.json" rel="nofollow">Prijava</a></li>
+<li><script type="text/javascript">$('.itemVisibility').css('display','none');</script><a href="https://login.bolha.com/registracija_izbor.php" rel="nofollow">Registracija</a></li>
+<li class="last"><script type="text/javascript">$('.itemVisibility').css('display','none');</script><a href="javascript:void(0);" rel="nofollow" class="liveChat" id="islpronto_link1" onClick="startChat();">Pogovor v živo</a></li>
+</ul>
+		</nav>
+		<a href="http://blog.bolha.com" target="_blank" title="blog.bolha.com">blog.bolha.com</a>
+		<a href="http://www.mojedelo.com/" target="_blank" title="MojeDelo.com">MojeDelo.com</a>
+	</div>
+</div>
+		<div style="position: fixed; width: 100%; height: 600px;" class="page_background"></div>
+
+	<div class="wrapper">
+
+		<!-- header element  -->
+		<header>
+	<div class="coloumn span-7 logoHolder">
+		<a class="site-logo" title="Vstopna stran bolha.com" href="/">bolha.com</a>		&nbsp;
+	</div>
+
+	<div class="coloumn span-10">
+		<div id="mainSearchBox">
+	<form id="search" onSubmit="_gaq.push([&#039;_trackEvent&#039;, &#039;Search Box&#039;, &#039;Search - Header&#039;, &#039;http://www.bolha.com/zivali/male-zivali/macke?page=3&#039;]);" action="/iskanje" method="get">		<div class="searchInput">
+			<input placeholder="Kaj iščete danes?" class="input-mainSearch" autocomplete="off" type="text" value="" name="q" id="q" /><input class="mainSearchSubmit buttonYellow" action="http://www.bolha.com/ac?q=" rel="nofollow" name="" type="submit" value="Iskanje" />
+		</div><span id="calcElement"></span>
+	</form></div>
+
+
+
+
+	</div>
+	<div class="coloumn span-3">
+		<a href="http://objava-oglasa.bolha.com/"
+			title=""
+			rel="nofollow"
+			class="publishAdd roundedBox-10"
+			onClick="_gaq.push(['_trackEvent', 'Publish Ad', 'Click - Header', 'http://www.bolha.com/zivali/male-zivali/macke?page=3']);"><span class="publishSmall bgDottes">Objava oglasa</span></a>
+	</div>
+	<div class="clear"></div>
+</header>
+		<div id="billboard" class="_i_bannerHiddenDiv_440" style="display:none;"><div class="iAdserver" data-iadserver-zone="440"></div><script type="text/javascript">iprom_ZONES.push(440);</script></div><div id="pageTopBanner" class="_i_bannerHiddenDiv_25" style="display:none;"><div class="iAdserver" data-iadserver-zone="25"></div><script type="text/javascript">iprom_ZONES.push(25);</script></div>
+		<div class="container">
+	<div id="content">
+		<div class="coloumn span-20">
+	<div id="breadcrumbs">
+	<nav>
+		<a class="home" href="/">Domov</a><span>/</span><a href="/zivali/">Živali</a><span>/</span><a href="/zivali/male-zivali/">Male živali</a><span>/</span><h1>Mačke</h1>	</nav>
+</div>
+</div>
+
+<div class="clearfix">&nbsp;</div>
+
+<div class="coloumn span-5">
+	<section id="facetSet"><h3 class="title">Filtri</h3><div class="box facet noBorder">
+	<h4>Kategorije</h4>
+	
+	<span class="backArrow">&nbsp;</span><a class="reset" href="/kategorije">Vse kategorije</a>	
+						<ul>
+				<li><a href="/zivali/">Živali</a>					<ul>
+				<li><a href="/zivali/male-zivali/">Male živali</a>					<ul>
+				<li><a class="selected" href="/zivali/male-zivali/macke/"><h2>Mačke</h2></a>		 
+		
+			<ul>
+							<li><a href="/zivali/male-zivali/macke/macke-brez-rodovnika/">Mačke brez rodovnika (323)</a></li>
+							<li><a href="/zivali/male-zivali/macke/macke-iz-zavetisc/">Mačke iz zavetišč (102)</a></li>
+							<li><a href="/zivali/male-zivali/macke/macke-z-rodovnikom/">Mačke z rodovnikom (12)</a></li>
+					</ul>
+	 
+	
+						</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+		</ul>
+				
+</div><div class="advancedFacet">
+	<hr>
+	<a rel="nofollow" data-facet="{&quot;key&quot;:&quot;LocationHierarchical&quot;,&quot;type&quot;:&quot;AdvancedHierarchicalField&quot;,&quot;multiSelect&quot;:&quot;true&quot;}" class="openAFS right" href="javascript:void(0);">Podrobno</a>	<h4><a rel="nofollow" data-facet="{&quot;key&quot;:&quot;LocationHierarchical&quot;,&quot;type&quot;:&quot;AdvancedHierarchicalField&quot;,&quot;multiSelect&quot;:&quot;true&quot;}" class="openAFS" href="#">Lokacija prodajalca</a></h4>
+		<div class="options">
+		
+		
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Gorenjska%2F"><span class="noItems">47</span><span class="checkbox"></span>Gorenjska</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Gori%C5%A1ka%2F"><span class="noItems">16</span><span class="checkbox"></span>Goriška</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Hrva%C5%A1ka%2F"><span class="noItems">2</span><span class="checkbox"></span>Hrvaška</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Jugovzhodna+Slovenija%2F"><span class="noItems">26</span><span class="checkbox"></span>Jugovzhodna Slovenija</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Koro%C5%A1ka%2F"><span class="noItems">8</span><span class="checkbox"></span>Koroška</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Notranjsko-kra%C5%A1ka%2F"><span class="noItems">5</span><span class="checkbox"></span>Notranjsko-kraška</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Obalno-kra%C5%A1ka%2F"><span class="noItems">29</span><span class="checkbox"></span>Obalno-kraška</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Osrednjeslovenska%2F"><span class="noItems">59</span><span class="checkbox"></span>Osrednjeslovenska</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Ostalo%2F"><span class="noItems">9</span><span class="checkbox"></span>Ostalo</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Podravska%2F"><span class="noItems">40</span><span class="checkbox"></span>Podravska</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Pomurska%2F"><span class="noItems">21</span><span class="checkbox"></span>Pomurska</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Savinjska%2F"><span class="noItems">166</span><span class="checkbox"></span>Savinjska</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Spodnjeposavska%2F"><span class="noItems">5</span><span class="checkbox"></span>Spodnjeposavska</a></div>
+					<div class="option"><a href="/zivali/male-zivali/macke/?location=Zasavska%2F"><span class="noItems">4</span><span class="checkbox"></span>Zasavska</a></div>
+		
+			</div>
+	</div>
+<div class="advancedFacet">
+	<hr>
+	<a rel="nofollow" data-facet="{&quot;key&quot;:&quot;AdType&quot;,&quot;type&quot;:&quot;AdvancedHierarchicalField&quot;,&quot;multiSelect&quot;:&quot;true&quot;}" class="openAFS right" href="javascript:void(0);">Podrobno</a>	<h4><a rel="nofollow" data-facet="{&quot;key&quot;:&quot;AdType&quot;,&quot;type&quot;:&quot;AdvancedHierarchicalField&quot;,&quot;multiSelect&quot;:&quot;true&quot;}" class="openAFS" href="#">Vrsta ponudbe</a></h4>
+		<div class="options">
+		
+		
+					<div class="option"><a rel="nofollow" href="/zivali/male-zivali/macke/?adTypeH=00_Prodam%2F"><span class="noItems">133</span><span class="checkbox"></span>Prodam</a></div>
+					<div class="option"><a rel="nofollow" href="/zivali/male-zivali/macke/?adTypeH=01_Kupim%2F"><span class="noItems">5</span><span class="checkbox"></span>Kupim</a></div>
+					<div class="option"><a rel="nofollow" href="/zivali/male-zivali/macke/?adTypeH=04_Podarim%2F"><span class="noItems">299</span><span class="checkbox"></span>Podarim</a></div>
+		
+			</div>
+	</div>
+<div class="advancedFacet">
+	<hr>
+	<a rel="nofollow" data-facet="{&quot;key&quot;:&quot;price&quot;,&quot;type&quot;:&quot;RangeSlider&quot;,&quot;field&quot;:&quot;priceSortField&quot;,&quot;unit&quot;:&quot;\u20ac&quot;,&quot;maxValue&quot;:1000,&quot;multiSelect&quot;:&quot;false&quot;}" class="openAFS right" href="#">Podrobno</a>	<h4><a rel="nofollow" data-facet="{&quot;key&quot;:&quot;price&quot;,&quot;type&quot;:&quot;RangeSlider&quot;,&quot;field&quot;:&quot;priceSortField&quot;,&quot;unit&quot;:&quot;\u20ac&quot;,&quot;maxValue&quot;:1000,&quot;multiSelect&quot;:&quot;false&quot;}" class="openAFS" href="#">Cena</a></h4>
+	<div class="options">
+		<div class="info" style="padding:3px;">
+						<a id="priceSlider_go" href="/zivali/male-zivali/macke/" class="right hidden">Potrdi</a>
+			Od <span id="priceSlider_start">0</span> do <span id="priceSlider_end">1.000</span> €		</div>
+		<div class="slider" style="padding:6px;">
+			<div id="priceSlider"></div>
+		</div>
+	</div>
+</div>
+<div class="advancedFacet">
+	<hr>
+	<a rel="nofollow" data-facet="{&quot;key&quot;:&quot;images&quot;,&quot;type&quot;:&quot;AdvancedMultiQuery&quot;,&quot;multiSelect&quot;:&quot;false&quot;}" class="openAFS right" href="javascript:void(0);">Podrobno</a>	<h4><a rel="nofollow" data-facet="{&quot;key&quot;:&quot;images&quot;,&quot;type&quot;:&quot;AdvancedMultiQuery&quot;,&quot;multiSelect&quot;:&quot;false&quot;}" class="openAFS" href="#">Fotografije</a></h4>
+		<div class="options">
+					<div class="option"><a rel="nofollow" href="/zivali/male-zivali/macke/?hasImages=Oglasi+s+fotografijami"><span class="noItems">413</span><span class="checkbox"></span>Oglasi s fotografijami</a></div>
+					<div class="option"><a rel="nofollow" href="/zivali/male-zivali/macke/?hasImages=Oglasi+brez+fotografij"><span class="noItems">24</span><span class="checkbox"></span>Oglasi brez fotografij</a></div>
+			</div>
+	</div>
+<div class="advancedFacet">
+	<hr>
+	<a rel="nofollow" data-facet="{&quot;key&quot;:&quot;Dates&quot;,&quot;type&quot;:&quot;AdvancedMultiQuery&quot;,&quot;multiSelect&quot;:&quot;false&quot;}" class="openAFS right" href="javascript:void(0);">Podrobno</a>	<h4><a rel="nofollow" data-facet="{&quot;key&quot;:&quot;Dates&quot;,&quot;type&quot;:&quot;AdvancedMultiQuery&quot;,&quot;multiSelect&quot;:&quot;false&quot;}" class="openAFS" href="#">Oglas objavljen</a></h4>
+		<div class="options">
+					<div class="option"><a rel="nofollow" href="/zivali/male-zivali/macke/?dateStart=V+zadnjih+8+urah"><span class="noItems">8</span><span class="checkbox"></span>V zadnjih 8 urah</a></div>
+					<div class="option"><a rel="nofollow" href="/zivali/male-zivali/macke/?dateStart=Danes"><span class="noItems">9</span><span class="checkbox"></span>Danes</a></div>
+					<div class="option"><a rel="nofollow" href="/zivali/male-zivali/macke/?dateStart=V%C4%8Deraj"><span class="noItems">20</span><span class="checkbox"></span>Včeraj</a></div>
+					<div class="option"><a rel="nofollow" href="/zivali/male-zivali/macke/?dateStart=Zadnji+teden"><span class="noItems">132</span><span class="checkbox"></span>Zadnji teden</a></div>
+					<div class="option"><a rel="nofollow" href="/zivali/male-zivali/macke/?dateStart=Zadnji+mesec"><span class="noItems">305</span><span class="checkbox"></span>Zadnji mesec</a></div>
+					<div class="option"><a rel="nofollow" href="/zivali/male-zivali/macke/?dateStart=Starej%C5%A1i+oglasi"><span class="noItems">132</span><span class="checkbox"></span>Starejši oglasi</a></div>
+			</div>
+	</div>
+</section><section id="leftBlockBanners" class="_i_bannerHiddenDiv_29 _i_bannerHiddenDiv_35" style="display:none;"><div class="banners"><div class="banner"><div class="iAdserver" data-iadserver-zone="29"></div><script type="text/javascript">iprom_ZONES.push(29);</script></div><div class="banner"><div class="iAdserver" data-iadserver-zone="35"></div><script type="text/javascript">iprom_ZONES.push(35);</script></div></div><div class="alignRight"><a title="Oglašujte na bolha.com" target="_blank" rel="nofollow" href="/koristno/oglasevanje">Oglašujte na bolha.com</a><span class="bannerArrow"></span></div></section><div id="savedAdDialog" style="display:none"><p class="content"></p></div><section id="savedAds"></section></div>
+
+<div class="coloumn span-15">
+	
+	
+	<div class="container">
+		<div class="allItemCount">Št. najdenih oglasov: 437</div>
+		<section id="list">
+<div id="debugger"></div>
+
+	
+		<!-- message box -->
+	
+	<!-- redboxTop -->
+						<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Mali črni panter Mihec in puhasti Bacci (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8T2KQO35iJGTQyBpo7_g3BGpHh-cXNf1IVKScUHxNKebg6GL3ONLAfaXORynIZy5Z94JA1GKZhAeQQBjy_B_xOYxwjWakAR_dY?adId=1307480850&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/mali-crni-panter-mihec-in-puhasti-bacci-dzzz-kranj--1307480850.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/3/thumb2/201505/203374/Mali-crni-panter-Mihec-in-puhasti-Bacci--DZZZ-Kranj-_57f0d66f95190.jpg" alt="Mali črni panter Mihec in puhasti Bacci (DZZŽ Kranj)" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Mali črni panter Mihec in puhasti Bacci (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8T2KQO35iJGTQyBpo7_g3BGpHh-cXNf1IVKScUHxNKebg6GL3ONLAfaXORynIZy5Z94JA1GKZhAeQQBjy_B_xOYxwjWakAR_dY?adId=1307480850&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/mali-crni-panter-mihec-in-puhasti-bacci-dzzz-kranj--1307480850.html&amp;ts=1475485739">Mali črni panter Mihec in puhasti Bacci (DZZŽ Kranj)</a></h3>
+							Mihec je mali črni panter, nezahteven, nemoteč in nevsiljiv, skoraj neopazen muc, dokler se tiho ne prikrade v naročje in ob vztrajnem božanju prav nežno														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307480850" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Igriva cartasta Neja z repkom kot antenca (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TzbVx9SXgGVwISfZY1fL1ROhFFAig4tVbi8Tq8PwteEqbFZUJhXnoXtVz01jgCV9osDxwXUI6EGXSM63NzCETKINz3dJ0bt_nJ4vZcMdEw5Y.?adId=1307480786&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/igriva-cartasta-neja-z-repkom-kot-antenca-dzzz-kranj--1307480786.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/1/thumb2/201505/203374/Igriva-cartasta-Neja-z-repkom-kot-antenca--DZZZ-Kranj-_57f0d623ce7ec.jpg" alt="Igriva cartasta Neja z repkom kot antenca (DZZŽ Kranj)" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Igriva cartasta Neja z repkom kot antenca (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TzbVx9SXgGVwISfZY1fL1ROhFFAig4tVbi8Tq8PwteEqbFZUJhXnoXtVz01jgCV9osDxwXUI6EGXSM63NzCETKINz3dJ0bt_nJ4vZcMdEw5Y.?adId=1307480786&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/igriva-cartasta-neja-z-repkom-kot-antenca-dzzz-kranj--1307480786.html&amp;ts=1475485739">Igriva cartasta Neja z repkom kot antenca (DZZŽ Kranj)</a></h3>
+							Mala Neja je živahna, po izgledu čudovita, po karakterju prijetno prismuknjena in izredno prijazna mucka z zelo zdravim apetitom : ) . Bila je najmanjša														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307480786" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Lepa mala Ariella (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TM9s8KCzv6FX-0yjTCkMVZ3Bh--6firGaHdIJ8VM_HETd1n87r7rHAolVRPtum0D4NzxXRAIRGfQ.?adId=1307480698&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/lepa-mala-ariella-dzzz-kranj--1307480698.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/1/thumb2/201505/203374/Lepa-mala-Ariella--DZZZ-Kranj-_57f0d5c0674e8.jpg" alt="Lepa mala Ariella (DZZŽ Kranj)" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Lepa mala Ariella (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TM9s8KCzv6FX-0yjTCkMVZ3Bh--6firGaHdIJ8VM_HETd1n87r7rHAolVRPtum0D4NzxXRAIRGfQ.?adId=1307480698&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/lepa-mala-ariella-dzzz-kranj--1307480698.html&amp;ts=1475485739">Lepa mala Ariella (DZZŽ Kranj)</a></h3>
+							Ariella je razigran mačji otrok, poln energije in dobre volje, ko se utrudi, pa postane prava crkljivka. Pridno uporablja mačji wc in je nasploh zelo pridna														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307480698" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Čudežna pisana Dašenka (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TgXgHuRlvaukTxE6lf9ht7FV1ctwwiiuD0DbuoDRbyUeY3KXz2JzbZh9rp0QUpGAJmX05WxobEbU.?adId=1307480578&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/cudezna-pisana-dasenka-dzzz-kranj--1307480578.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/2/thumb2/201505/203374/Cudezna-pisana-Dasenka--DZZZ-Kranj-_57f0d542b73a2.jpg" alt="Čudežna pisana Dašenka (DZZŽ Kranj)" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Čudežna pisana Dašenka (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TgXgHuRlvaukTxE6lf9ht7FV1ctwwiiuD0DbuoDRbyUeY3KXz2JzbZh9rp0QUpGAJmX05WxobEbU.?adId=1307480578&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/cudezna-pisana-dasenka-dzzz-kranj--1307480578.html&amp;ts=1475485739">Čudežna pisana Dašenka (DZZŽ Kranj)</a></h3>
+							Mala pisana Dašenka je bila potegnjena praktično izpod kosilnice ob eni najbolj prometnih ljubljanskih cest v času jutranje prometne gneče. Nekaj časa														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307480578" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Mali črni panter Liam (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8T2KQO35iJGTQyBpo7_g3BGmW15toeYuUmmYs_p8ONBAvWsd9v-4E3mMDPemTl2BakctjY_0EVyWs.?adId=1307480530&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/mali-crni-panter-liam-dzzz-kranj--1307480530.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/3/thumb2/201505/203374/Mali-crni-panter-Liam--DZZZ-Kranj-_57f0d50072533.jpg" alt="Mali črni panter Liam (DZZŽ Kranj)" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Mali črni panter Liam (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8T2KQO35iJGTQyBpo7_g3BGmW15toeYuUmmYs_p8ONBAvWsd9v-4E3mMDPemTl2BakctjY_0EVyWs.?adId=1307480530&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/mali-crni-panter-liam-dzzz-kranj--1307480530.html&amp;ts=1475485739">Mali črni panter Liam (DZZŽ Kranj)</a></h3>
+							Liam je mali mačji črni panter, star 3 mesece. Zelo rad ima ljudi in je izjemno družaben. Če je le mogoče se namontira v naročje. Zelo rad pa tudi pomaga														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307480530" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Prikupna nežna Nur (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TNckZ1lS9jYn6A50JDkoJYqzvK20gr9__zOsKDXVZms_a6uZMOiY5KWdRFAXj_V5mMAv5NYy8GPk.?adId=1307480474&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/prikupna-nezna-nur-dzzz-kranj--1307480474.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/3/thumb2/201505/203374/Prikupna-nezna-Nur--DZZZ-Kranj-_57f0d4be06f3a.jpg" alt="Prikupna nežna Nur (DZZŽ Kranj)" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Prikupna nežna Nur (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TNckZ1lS9jYn6A50JDkoJYqzvK20gr9__zOsKDXVZms_a6uZMOiY5KWdRFAXj_V5mMAv5NYy8GPk.?adId=1307480474&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/prikupna-nezna-nur-dzzz-kranj--1307480474.html&amp;ts=1475485739">Prikupna nežna Nur (DZZŽ Kranj)</a></h3>
+							Nur je prikupna nežna tigričica, stara 3 mesece, ki išče bližino človeka na vsakem koraku. Rada poležava in se crklja. Ko je spočita pa uganja vragolije														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307480474" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+				<div name="_i_bannerHiddenDiv_27" style="display:none;" class="bannerWrapper"><div class="banner"><div class="iAdserver" data-iadserver-zone="27"></div><script type="text/javascript">iprom_ZONES.push(27);</script></div></div>					<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Crkljiva črnuhica Cici (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TLHY10RAIVb7SIs9akW75SDtvcjNa3ePDA4WOFlquERUqXudrAVS2btHKoAXXo_zaoD0KJKu7kbg.?adId=1307480426&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/crkljiva-crnuhica-cici-dzzz-kranj--1307480426.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/0/thumb2/201505/203374/Crkljiva-crnuhica-Cici--DZZZ-Kranj-_57f0d46d1d8a4.jpg" alt="Crkljiva črnuhica Cici (DZZŽ Kranj)" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Crkljiva črnuhica Cici (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TLHY10RAIVb7SIs9akW75SDtvcjNa3ePDA4WOFlquERUqXudrAVS2btHKoAXXo_zaoD0KJKu7kbg.?adId=1307480426&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/crkljiva-crnuhica-cici-dzzz-kranj--1307480426.html&amp;ts=1475485739">Crkljiva črnuhica Cici (DZZŽ Kranj)</a></h3>
+							Cici je medvedkasto luštna mucka, črno srebrne barve. Je prijazna, igriva, nekonfliktna in crkljiva mucka stara 3 mesece. Je sobno čista in pridno uporablja														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307480426" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Luštna črno srebrna lepotička Lina (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TT6FXuvVfM4BhrkkJ0Aj6Q5BVc4d3q6yze0mNPK1kKc95_b-u3h-llBq61H5UjO0Wz84_uoZfyvfScmCvYIIg9t8EuPCfq_-R?adId=1307480370&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/lustna-crno-srebrna-lepoticka-lina-dzzz-kranj--1307480370.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/1/thumb2/201505/203374/Lustna-crno-srebrna-lepoticka-Lina--DZZZ-Kranj-_57f0d433caa9f.jpg" alt="Luštna črno srebrna lepotička Lina (DZZŽ Kranj)" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Luštna črno srebrna lepotička Lina (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TT6FXuvVfM4BhrkkJ0Aj6Q5BVc4d3q6yze0mNPK1kKc95_b-u3h-llBq61H5UjO0Wz84_uoZfyvfScmCvYIIg9t8EuPCfq_-R?adId=1307480370&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/lustna-crno-srebrna-lepoticka-lina-dzzz-kranj--1307480370.html&amp;ts=1475485739">Luštna črno srebrna lepotička Lina (DZZŽ Kranj)</a></h3>
+							Lina je medvedkasto luštna črnuhica. Je prijazna, igriva, nekonfliktna in crkljiva mucka stara 3 mesece. Je sobno čista in pridno uporablja mačji wc. Z														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307480370" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Cartljivec Bacardi (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TcWAwIc4-3tQ5ASer5GxGE86jqHB_OKkDfJa8WG0vYXn_mA3A2CkvFWUGAgGXjKJ-4JZaHuUR_Wo.?adId=1307480286&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/cartljivec-bacardi-dzzz-kranj--1307480286.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/3/thumb2/201505/203386/Cartljivec-Bacardi--DZZZ-Kranj-_57f13ce398f44.jpg" alt="Cartljivec Bacardi (DZZŽ Kranj)" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Cartljivec Bacardi (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TcWAwIc4-3tQ5ASer5GxGE86jqHB_OKkDfJa8WG0vYXn_mA3A2CkvFWUGAgGXjKJ-4JZaHuUR_Wo.?adId=1307480286&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/cartljivec-bacardi-dzzz-kranj--1307480286.html&amp;ts=1475485739">Cartljivec Bacardi (DZZŽ Kranj)</a></h3>
+							Bacardi je mačji mladič, star 6 mesecev. Je izredno živahen, prijazen, igriv in cartljiv muc, ki se rad pogovarja. Rad se zabava s svojo najboljšo prijateljico														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307480286" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Mehka Casali (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TRk_smQvzaaxHrGXTtm5UV8x_jZ4TZguj-ojZr4ncjGQKMyitHHpczmkaAi-tp2X-?adId=1307480186&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/mehka-casali-dzzz-kranj--1307480186.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/3/thumb2/201505/203386/Mehka-Casali--DZZZ-Kranj-_57f13d1973b17.jpg" alt="Mehka Casali (DZZŽ Kranj)" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Mehka Casali (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TRk_smQvzaaxHrGXTtm5UV8x_jZ4TZguj-ojZr4ncjGQKMyitHHpczmkaAi-tp2X-?adId=1307480186&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/mehka-casali-dzzz-kranj--1307480186.html&amp;ts=1475485739">Mehka Casali (DZZŽ Kranj)</a></h3>
+							Casali je mlada muca, stara 6 mesecev. Je izredno živahna, prijazna, igriva in cartljiva muca, ki se rada stisne v naročje. Rada se zabava s svojim najboljšim														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307480186" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Mala, predoča Janis (DZZŽ Kranj) Cena: Po dogovoru" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8THpK7wom3QKGlFqo5awttqwuH3aBQSmZsnpI934FKVqKyjyg_MM-RjzIa1auEAYBNVMvMLhLUkDfkb5_UxQSpAn81GE8XTicD?adId=1307480110&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/mala-predoca-janis-dzzz-kranj-cena-po-dogovoru-1307480110.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/3/thumb2/201505/203386/Mala--predoca-Janis--DZZZ-Kranj--Cena--Po-dogovoru_57f13d47514ee.jpg" alt="Mala, predoča Janis (DZZŽ Kranj) Cena: Po dogovoru" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Mala, predoča Janis (DZZŽ Kranj) Cena: Po dogovoru" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8THpK7wom3QKGlFqo5awttqwuH3aBQSmZsnpI934FKVqKyjyg_MM-RjzIa1auEAYBNVMvMLhLUkDfkb5_UxQSpAn81GE8XTicD?adId=1307480110&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/mala-predoca-janis-dzzz-kranj-cena-po-dogovoru-1307480110.html&amp;ts=1475485739">Mala, predoča Janis (DZZŽ Kranj) Cena: Po dogovoru</a></h3>
+							Mala Janis je trimesečna mucka, ki je bila najdena popolnoma shirana in premražena v vasi na Gorenjskem. S skrbno nego se je počasi poredila in pozdravila														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307480110" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Prijazna India išče dom z varnimi izhodi v okolje (DZZŽ Kr)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8Tw_C7Phn2arx8Ap5bdwFACongU59fTIK6Y4qG35-_k1aR1FE7r31T_d65fUh_IjY0kCXImKFs8XJ56s4WHThd8sHIwSM_ntlfgZHXy2fakKE.?adId=1307480058&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/prijazna-india-isce-dom-z-varnimi-izhodi-v-okolje-dzzz-kr--1307480058.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/1/thumb2/201505/203374/Prijazna-India-isce-dom-z-varnimi-izhodi-v-okolje--DZZZ-Kr-_57f0d2e0990f1.jpg" alt="Prijazna India išče dom z varnimi izhodi v okolje (DZZŽ Kr)" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Prijazna India išče dom z varnimi izhodi v okolje (DZZŽ Kr)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8Tw_C7Phn2arx8Ap5bdwFACongU59fTIK6Y4qG35-_k1aR1FE7r31T_d65fUh_IjY0kCXImKFs8XJ56s4WHThd8sHIwSM_ntlfgZHXy2fakKE.?adId=1307480058&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/prijazna-india-isce-dom-z-varnimi-izhodi-v-okolje-dzzz-kr--1307480058.html&amp;ts=1475485739">Prijazna India išče dom z varnimi izhodi v okolje (DZZŽ Kr)</a></h3>
+							Čisto bela mucka India je bila skupaj z dvema mladičkoma in muckom Iggyjem najdena na območju Besnice, kjer je že dolga leta odlagališče živali. Po karakterju														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307480058" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Igrivi Iggy išče dom z varnimi izhodi v okolje (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TzbVx9SXgGVyQYPe7xDej_ylvl83rsdxk7E7XNnA26PQ2o4m6ikkNAQW5STXJxFEnpKRAxKTVZ4rHnLYqQ15sFby38-v-pbDGKSooKsrgm5c.?adId=1307479998&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/igrivi-iggy-isce-dom-z-varnimi-izhodi-v-okolje-dzzz-kranj--1307479998.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/1/thumb2/201505/203374/Igrivi-Iggy-isce-dom-z-varnimi-izhodi-v-okolje--DZZZ-Kranj-_57f0d2a812535.jpg" alt="Igrivi Iggy išče dom z varnimi izhodi v okolje (DZZŽ Kranj)" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Igrivi Iggy išče dom z varnimi izhodi v okolje (DZZŽ Kranj)" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TzbVx9SXgGVyQYPe7xDej_ylvl83rsdxk7E7XNnA26PQ2o4m6ikkNAQW5STXJxFEnpKRAxKTVZ4rHnLYqQ15sFby38-v-pbDGKSooKsrgm5c.?adId=1307479998&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/igrivi-iggy-isce-dom-z-varnimi-izhodi-v-okolje-dzzz-kranj--1307479998.html&amp;ts=1475485739">Igrivi Iggy išče dom z varnimi izhodi v okolje (DZZŽ Kranj)</a></h3>
+							Črno beli Iggy je bil skupaj z dvema mladičkoma in mucko Indio najden na območju Besnice, kjer je že dolga leta odlagališče živali. Po karakterju je crkljiv,														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307479998" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Mucka Maca" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8T4sNhsqGmJNF1skTIBGvWdoZblCBuFMkZdcUly3dTLRM.?adId=1307479938&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/mucka-maca-1307479938.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/2/thumb2/201505/203374/Mucka-Maca_57f0d26a7733a.jpg" alt="Mucka Maca" /></a></td></tr></table>
+							<span class="flag_newAd"></span>						</div>
+						<div class="coloumn content">
+							<h3><a title="Mucka Maca" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8T4sNhsqGmJNF1skTIBGvWdoZblCBuFMkZdcUly3dTLRM.?adId=1307479938&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/mucka-maca-1307479938.html&amp;ts=1475485739">Mucka Maca</a></h3>
+							Pomagamo pri oddaji – mucka MACA Prijazna muca, sterilizirana in zdrava, išče skrben in varen dom, kjer ji bodo omogočili varne zunanje izhode. Če bi ji														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307479938" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Britanske mačke - britanke" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TmCd3FVJcDTdS1d5YrgrxWRMIdVLehOxitNeiaICUutscedqK6N9tKDIdu19-xjTA?adId=1306832094&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/britanske-macke-britanke-1306832094.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/1/thumb2/201505/202742/Britanske-macke---britanke_57d5117a96b9b.jpg" alt="Britanske mačke - britanke" /></a></td></tr></table>
+													</div>
+						<div class="coloumn content">
+							<h3><a title="Britanske mačke - britanke" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8TmCd3FVJcDTdS1d5YrgrxWRMIdVLehOxitNeiaICUutscedqK6N9tKDIdu19-xjTA?adId=1306832094&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/britanske-macke-britanke-1306832094.html&amp;ts=1475485739">Britanske mačke - britanke</a></h3>
+							Prodam leglo britanskih muck, na voljo so samčki in samičke, oba starša imamo doma, kjer si jih lahko tudi ogledate, mucki bodo pred odhodom cepljeni,														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Po dogovoru</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1306832094" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Podarim mlado muco" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8T3cXb-XuO_US1Q6AmG_gEJlQL649j23tjDwKKGAFDKladK-nNLxcbeA..?adId=1307475370&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=imgClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/podarim-mlado-muco-1307475370.html&amp;ts=1475485739"><img src="http://mmc.bolha.com/3/thumb2/201505/203370/Podarim-mlado-muco_57f0b7b22e877.jpg" alt="Podarim mlado muco" /></a></td></tr></table>
+													</div>
+						<div class="coloumn content">
+							<h3><a title="Podarim mlado muco" href="http://www.bolha.com/bs/r/PUJoZUPNTx2kTSSOvY-4DfQ34DYYo_8gmvgNZm8TR7ocOTCVHhdNehVxiVSepVQJbvT78J2RZ4b3bQxY6vmAtXG6oi8T3cXb-XuO_US1Q6AmG_gEJlQL649j23tjDwKKGAFDKladK-nNLxcbeA..?adId=1307475370&amp;clkType=organic&amp;dst=internal&amp;source=listing&amp;section=organic&amp;category=%C5%BDivali%2FMale+%C5%BEivali%2FMa%C4%8Dke%2FMa%C4%8Dke+brez+rodovnika%2F&amp;viewType=30&amp;action=titleClk&amp;target=adDetail&amp;redirectFrom=http://www.bolha.com/zivali/male-zivali/macke?page=3&amp;redirectTo=http://www.bolha.com//zivali/male-zivali/macke/macke-brez-rodovnika/podarim-mlado-muco-1307475370.html&amp;ts=1475485739">Podarim mlado muco</a></h3>
+							Podarimo mlado muco. Navajena je na hišo in dvorišče. Je zelo prijazna. Zainteresirani in ljubitelji živali pokličite na tel: 041 243 323 ( Magda) ali														<div class="additionalInfo"><span><b>Brez rodovnika</b></span></div>						</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Podarim</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307475370" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+				<div name="_i_bannerHiddenDiv_39" style="display:none;" class="bannerWrapper"><div class="banner"><div class="iAdserver" data-iadserver-zone="39"></div><script type="text/javascript">iprom_ZONES.push(39);</script></div></div>					<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Oddamo mucko: PIKI, samček" href="/zivali/zavetisca/macke-iz-zavetisc/oddamo-mucko-piki-samcek-1306828030.html?aclct=1475454139"><img title="Oddamo mucko: PIKI, samček" data-original="http://mmc.bolha.com/0/thumb2/201505/203394/_57f1a4b339c98.jpg" class="lazyList" src="http://mmc.bolha.com/graphics/noPhoto.jpg" alt="Oddamo mucko: PIKI, samček" /></a></td></tr></table>
+													</div>
+						<div class="coloumn content">
+							<h3><a title="Oddamo mucko: PIKI, samček" href="/zivali/zavetisca/macke-iz-zavetisc/oddamo-mucko-piki-samcek-1306828030.html?aclct=1475454139">Oddamo mucko: PIKI, samček</a></h3>
+							Datum prihoda: 10.09.2016 PIKI Spol: samček Starost ob prihodu: 1 leto Kontakt: info@macjahisa.si, 040 937 959 Piki je prijazen in na ljudi navezan muc,																				</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Podarim</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1306828030" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Oddamo mucko: ALICA, samička" href="/zivali/zavetisca/macke-iz-zavetisc/oddamo-mucko-alica-samicka-1307471602.html?aclct=1475454003"><img title="Oddamo mucko: ALICA, samička" data-original="http://mmc.bolha.com/2/thumb2/201505/203394/_57f1a42d0ed0b.jpg" class="lazyList" src="http://mmc.bolha.com/graphics/noPhoto.jpg" alt="Oddamo mucko: ALICA, samička" /></a></td></tr></table>
+													</div>
+						<div class="coloumn content">
+							<h3><a title="Oddamo mucko: ALICA, samička" href="/zivali/zavetisca/macke-iz-zavetisc/oddamo-mucko-alica-samicka-1307471602.html?aclct=1475454003">Oddamo mucko: ALICA, samička</a></h3>
+							Datum prihoda: 01.10.2016 ALICA Spol: samička Starost ob prihodu: 5 mesecev Kontakt: info@macjahisa.si Alica je muca, ki z ljudmi sicer sobiva, ni pa (še)																				</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Podarim</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307471602" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Oddamo mucko: KENNY, samček" href="/zivali/zavetisca/macke-iz-zavetisc/oddamo-mucko-kenny-samcek-1307471598.html?aclct=1475453996"><img title="Oddamo mucko: KENNY, samček" data-original="http://mmc.bolha.com/0/thumb2/201505/203394/_57f1a42644c67.jpg" class="lazyList" src="http://mmc.bolha.com/graphics/noPhoto.jpg" alt="Oddamo mucko: KENNY, samček" /></a></td></tr></table>
+													</div>
+						<div class="coloumn content">
+							<h3><a title="Oddamo mucko: KENNY, samček" href="/zivali/zavetisca/macke-iz-zavetisc/oddamo-mucko-kenny-samcek-1307471598.html?aclct=1475453996">Oddamo mucko: KENNY, samček</a></h3>
+							Datum prihoda: 01.10.2016 KENNY Spol: samček Starost ob prihodu: 5, 5 mesecev Kontakt: info@macjahisa.si, 040 937 959 Kenny je razigran, prijazen muc,																				</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Podarim</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307471598" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+									<div class="ad">
+						<div class="coloumn image">
+							<table><tr><td><a title="Oddamo mucko: DIDI, samička" href="/zivali/zavetisca/macke-iz-zavetisc/oddamo-mucko-didi-samicka-1307471594.html?aclct=1475453989"><img title="Oddamo mucko: DIDI, samička" data-original="http://mmc.bolha.com/3/thumb2/201505/203394/_57f1a41cbc278.jpg" class="lazyList" src="http://mmc.bolha.com/graphics/noPhoto.jpg" alt="Oddamo mucko: DIDI, samička" /></a></td></tr></table>
+													</div>
+						<div class="coloumn content">
+							<h3><a title="Oddamo mucko: DIDI, samička" href="/zivali/zavetisca/macke-iz-zavetisc/oddamo-mucko-didi-samicka-1307471594.html?aclct=1475453989">Oddamo mucko: DIDI, samička</a></h3>
+							Datum prihoda: 01.10.2016 DIDI Spol: samička Starost ob prihodu: 4 mesece Kontakt: info@macjahisa.si, 040 937 959 Didi je radovedna, igriva mucka, vajena																				</div>
+						<div class="coloumn badges">
+							&nbsp;						</div>
+						<div class="coloumn prices">
+							<div class="price">Podarim</div>						</div>
+						<div class="clear"></div>
+						<div class="miscellaneous">
+							<div class="coloumn saveAd itemVisibility ">
+								<a href="javascript:void(0);" data-id="1307471594" title="Shrani oglas" class="button btnYellow save _ad">Shrani oglas</a>
+							</div>
+																					<div>
+															</div>
+														<div class="clear"></div>
+						</div>
+					</div>
+
+				
+				<div class="clear">&nbsp;</div>
+
+				<div class="afc">
+	<script type="text/javascript"><!--
+		google_ad_client = "ca-pub-4888878118303059";
+		/* CustomSize-RE-600x160- text-top2+ */
+		google_ad_slot = "6409805865";
+		google_override_format = true;
+		google_ad_width = 600;
+		google_ad_height = 160;
+		google_ad_region = "bolha";
+		//-->
+	</script>
+	<script type="text/javascript"
+		src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+</div>
+	<!-- toolbox -->
+	<div id="toolBox-top">
+	<div class="toolbox">
+		<div class="sorter right">
+	<div class="sortBox">
+		<label>Zadnji vpisani oglasi naprej</label>
+		<div class="options">
+							<a rel="nofollow" href="/zivali/male-zivali/macke/?sort=0" class="selected">Zadnji vpisani oglasi naprej</a>
+								<a rel="nofollow" href="/zivali/male-zivali/macke/?sort=1">Oglasi pred potekom naprej</a>
+								<a rel="nofollow" href="/zivali/male-zivali/macke/?sort=2">Cena: nižja naprej</a>
+								<a rel="nofollow" href="/zivali/male-zivali/macke/?sort=3">Cena: višja naprej</a>
+						</div>
+	</div>
+</div><!-- View Type Toolbox -->
+<div class="right viewType">
+	<ul>
+		<li id="gridType" class="gridType icon">
+			<a rel="noFollow" title="Mrežni prikaz" href="http://www.bolha.com/zivali/male-zivali/macke/?listingType=grid&page=3">&nbsp;</a>
+		</li>
+		<li id="listType" class="listType icon currentList">
+			<a rel="noFollow" title="Vrstični prikaz" href="http://www.bolha.com/zivali/male-zivali/macke/?listingType=list&page=3">&nbsp;</a>
+		</li>
+	</ul>
+</div><div class="pager"><a class="back" href="/zivali/male-zivali/macke/?page=2"><span></span></a>
+<a class="page" href="/zivali/male-zivali/macke/"><span>1</span></a>
+<a class="page" href="/zivali/male-zivali/macke/?page=2"><span>2</span></a>
+<span><strong>3</strong></span>
+<a class="page" href="/zivali/male-zivali/macke/?page=4"><span>4</span></a>
+<a class="page" href="/zivali/male-zivali/macke/?page=5"><span>5</span></a>
+<span>...</span>
+<a class="last" href="/zivali/male-zivali/macke/?page=22"><span>22</span></a>
+<a class="forward" href="/zivali/male-zivali/macke/?page=4"><span></span></a></div>	</div>
+</div>
+	<!-- toolbox bottom -->
+	<div id="toolBox-bottom">
+	<div class="toolbox noBorder">
+		<div class="pager"><a class="back" href="/zivali/male-zivali/macke/?page=2"><span></span></a>
+<a class="page" href="/zivali/male-zivali/macke/"><span>1</span></a>
+<a class="page" href="/zivali/male-zivali/macke/?page=2"><span>2</span></a>
+<span><strong>3</strong></span>
+<a class="page" href="/zivali/male-zivali/macke/?page=4"><span>4</span></a>
+<a class="page" href="/zivali/male-zivali/macke/?page=5"><span>5</span></a>
+<span>...</span>
+<a class="last" href="/zivali/male-zivali/macke/?page=22"><span>22</span></a>
+<a class="forward" href="/zivali/male-zivali/macke/?page=4"><span></span></a></div>	</div>
+</div>
+</section>
+<!-- seller type -->
+<div id="sellerTypeSelector">
+	<ul>
+					<li class="tab1"><a href="/zivali/male-zivali/macke/?viewType=10">Posamezniki <span>(330)</span></a></li>
+					<li class="tab2"><a href="/zivali/male-zivali/macke/?viewType=20">Podjetja <span>(107)</span></a></li>
+					<li class="tab3"><a href="/zivali/male-zivali/macke/?viewType=30" class="active">Vsi <span>(437)</span></a></li>
+			</ul>
+	<div class="clear"></div>
+</div>	</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+
+<div id="adListBottom" class="_i_bannerHiddenDiv_391" style="display:none;"><div class="iAdserver" data-iadserver-zone="391"></div><script type="text/javascript">iprom_ZONES.push(391);</script></div>	</div><!-- content -->
+</div>
+
+		<!-- footer element  -->
+		<div class="container">
+	<div class="coloumn span-20">
+
+		<!-- widget googleAds 5*ads  -->
+		
+		<section id="tagcloud">
+			<ul>
+									<li><a href="/avdio-in-video/" title="Avdio, video">Avdio, video</a></li>
+										<li><a href="/avto-moto/" title="Avto-moto">Avto-moto</a></li>
+										<li><a href="/darila/" title="Darila">Darila</a></li>
+										<li><a href="/dom/" title="Dom">Dom</a></li>
+										<li><a href="/erotika/" title="Erotika">Erotika</a></li>
+										<li><a href="/fotografija-in-optika/" title="Fotografija, optika">Fotografija, optika</a></li>
+					</ul><ul>					<li><a href="/glasba-film/" title="Glasba, film">Glasba, film</a></li>
+										<li><a href="/glasbila-glasbena-oprema/" title="Glasbila">Glasbila</a></li>
+										<li><a href="/gradnja/" title="Gradnja">Gradnja</a></li>
+										<li><a href="/hobi-zbirateljstvo/" title="Hobi, zbirateljstvo">Hobi, zbirateljstvo</a></li>
+										<li><a href="/kmetijstvo-gozdarstvo/" title="Kmetijstvo">Kmetijstvo</a></li>
+										<li><a href="/knjige-revije-stripi/" title="Knjige, revije, stripi">Knjige, revije, stripi</a></li>
+					</ul><ul>					<li><a href="/lepota-in-zdravje/" title="Lepota, zdravje">Lepota, zdravje</a></li>
+										<li><a href="/navtika/" title="Navtika">Navtika</a></li>
+										<li><a href="/nepremicnine/" title="Nepremičnine">Nepremičnine</a></li>
+										<li><a href="/oblacila-obutev-modni-dodatki/" title="Oblačila, obutev...">Oblačila, obutev...</a></li>
+										<li><a href="/podarim/" title="Podarim">Podarim</a></li>
+										<li><a href="/poslovna-oprema/" title="Poslovna oprema">Poslovna oprema</a></li>
+					</ul><ul>					<li><a href="/prehrana/" title="Prehrana">Prehrana</a></li>
+										<li><a href="/rastline/" title="Rastline">Rastline</a></li>
+										<li><a href="/racunalnistvo/" title="Računalništvo">Računalništvo</a></li>
+										<li><a href="/rekreacija-sport/" title="Rekreacija, šport">Rekreacija, šport</a></li>
+										<li><a href="/storitve/" title="Storitve">Storitve</a></li>
+										<li><a href="/stroji-orodja/" title="Stroji, orodja">Stroji, orodja</a></li>
+					</ul><ul>					<li><a href="/telefonija/" title="Telefonija">Telefonija</a></li>
+										<li><a href="/turizem/" title="Turizem">Turizem</a></li>
+										<li><a href="/umetnine-starine/" title="Umetnine, starine">Umetnine, starine</a></li>
+										<li><a href="/igrace-otroska-oprema/" title="Vse za otroka">Vse za otroka</a></li>
+										<li><a href="/vstopnice/" title="Vstopnice">Vstopnice</a></li>
+										<li><a href="/zaposlitve/" title="Zaposlitve">Zaposlitve</a></li>
+					</ul><ul>					<li><a href="/zivali/" title="Živali">Živali</a></li>
+										<li><a href="/pasemske-zivali/" title="Živali z rodovnikom">Živali z rodovnikom</a></li>
+										<li><a href="/zadnji-oddani/" title="Zadnji objavljeni oglasi">Zadnji objavljeni oglasi</a></li>
+										<li><a href="/turizem/hoteli" title="Hoteli na bolha.com">Hoteli na bolha.com</a></li>
+										<li><a href="/turizem/smucanje" title="Smučanje">Smučanje</a></li>
+										<li><a href="/aktualno/vse-za-dom-in-gradnjo" title="Vse za dom in gradnjo">Vse za dom in gradnjo</a></li>
+								</ul>
+			<div class="clear"></div>
+		</section>
+
+		<div class="footer-links">
+			<ul>
+				<li class="first"><a href="/" title="">Domov</a></li>
+				<li><a rel="nofollow" href="/koristno/o-nas/kdo-smo" title="">O nas</a></li>
+				<li><a rel="nofollow" href="/koristno/pomoc-in-varnost/kako-postanem-uporabnik-bolhacom" title="">Pomoč</a></li>
+				<li><a href="/koristno/" title="">Zemljevid strani</a></li>
+				<li><a rel="nofollow" href="/koristno/oglasevanje" title="">Oglaševanje</a></li>
+				<li><a href="http://blog.bolha.com" title="blog.bolha.com" target="_blank">blog.bolha.com</a></li>
+				<li><a rel="nofollow" href="/koristno/pravila-in-pogoji-uporabe-bolhacom" title="">Pravila in pogoji uporabe</a></li>
+				<li><a rel="nofollow" href="/koristno/kontakt" title="">Kontakt</a></li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+
+		<div class="socialAndApps">
+		<!-- widget social media -->
+		<div id="socialNetworks">
+	<h3 class="left">Družite se z bolha.com</h3>
+	<div class="links left">
+		<a target="blank" class="fb" title="bolha.com na Facebooku" rel="external nofollow" href="http://www.facebook.com/Bolhacom"></a><a target="blank" class="twitter" title="bolha.com na Twitterju" rel="external nofollow" href="https://twitter.com/bolhacom"></a>			<a target="blank" href="//plus.google.com/113650998611688510656?prsrc=3" class="google" title="bolha.com na Google+" rel="publisher"></a>
+		<a target="blank" class="youtube" title="bolha.com na YouTube" rel="external nofollow" href="https://www.youtube.com/user/bolhacom"></a>		<div class="clear"></div>
+	</div>
+</div>
+		<!-- widget apps media -->
+		
+<div id="footerAppsMedia">
+	<h3 class="title">Naložite si mobilno aplikacijo</h3>
+	<div class="links">
+		<a target="blank" class="ios" title="bolha.com na Ios platformi" rel="external nofollow" href="https://itunes.apple.com/si/app/bolha.com/id929743068?mt=8"><img src="/images/appstore.png" alt="" /></a><a target="blank" class="android" title="bolha.com na Android platformi" rel="external nofollow" href="https://play.google.com/store/apps/details?id=com.undabot.android.bolha&amp;hl=en"><img src="/images/googleplay.png" alt="" /></a>		<div class="clear"></div>
+	</div>
+</div>		</div>
+
+		<footer class="clear">
+			<p class="span-6 left" style="width: 330px;">© 2002 - 2016 Styria digital marketplaces, d.o.o. Vse pravice pridržane.</p>
+			<p class="span-10 left" style="width: 411px;">PODPORA: T: 01 420 16 40, E: <a href="mailto:podpora@bolha.com">podpora@bolha.com</a>, delovni čas: pon.-pet.: 8h-21h</p>
+			<!-- <p class="span-10 left">PODPORA: T: 01 420 16 40, <a href="mailto:podpora@bolha.com">podpora@bolha.com</a>, pon.-pet.: 8h-21h (24. 12. in 31. 12.: 8h-16h)</p> -->
+			<p class="span-3 left" style="width: 110px;"><a id="islpronto_link3" rel="nofollow" onclick="startChat();" href="javascript:void(0)" class="liveChatFooter"><b>Pogovor v živo</b></a></p>
+			<div class="clear"></div>
+		</footer>
+	</div>
+
+</div>
+
+		<!-- popover login box  -->
+		<div id="loginBox" class="span-5">
+	<form name="loginBoxForm" method="post" action="#">
+
+		<div class="formField">
+						<input type="text" name="username" id="username" tabindex="1" class="textField" value="" />
+		</div>
+
+		<div class="formField">
+						<input type="password" name="password" tabindex="2" id="password" autocomplete="off" class="textField" value="" />
+		</div>
+
+		<div class="formField checkbox">
+			<a id="rememberMe" style="float:left;width:1px;height:1px;color:transparent;" tabindex="3" href="JavaScript:void(0);"></a><label id="rememberLabel" for="rememberLogin">Zapomni si me</label>
+			<input id="rememberLogin" type="checkbox" name="rememberLogin" value="">
+		</div>
+
+		<div class="formField spacer">
+			<input type="button" name="login" id="bolhaLogin" tabindex="4" class="buttonYellow" value="Prijava" />
+			<div id="authenticating" style="float:right;display:none;">
+				<img style="position:absolute;top:0;right:0;margin-top:5px;" src="/images/authenticating.gif" />
+			</div>
+		</div>
+
+		<a href="https://moja.bolha.com/auth" tabindex="5">Pozabil sem geslo</a><br />
+		<a href="https://login.bolha.com/pozabljeno_uporabnisko_ime.php" tabindex="6">Pozabil sem uporabniško ime</a>
+
+		<div class="fbConnect">
+			Enostavno! Prijavite se na bolha.com preko vašega Facebook profila.
+			<a id="fb_login" callback="do_fb_login" action="http://www.bolha.com/facebook/connect" href="JavaScript:void(0);" tabindex="6" title="Poveži se preko Facebook profila"></a>
+					</div>
+				<a href="JavaScript:void(0);" id="loginBoxClose" tabindex="7">Zapri</a>
+		<div class="clear"></div>
+	</form>
+</div>
+		<!-- dropdown autoComplete  -->
+		<ul id="autoComplete" style="display:none;"></ul>
+		<!-- banner AdServer neboticnik  -->
+		<div id="skyscraper" class="roundedBox-10" name="_i_bannerHiddenDiv_463" style="display:none;"><div class="iAdserver" data-iadserver-zone="463"></div><script type="text/javascript">iprom_ZONES.push(463);</script><div class="skyscraperText"><span class="more"><a title="Oglašujte na bolha.com" target="_blank" rel="nofollow" href="/koristno/oglasevanje">Oglašujte na bolha.com</a></span><span class="bannerArrow">&nbsp;</span></div></div><div id="skyscraper" class="roundedBox-10" name="_i_bannerHiddenDiv_31" style="display:none;"><div class="iAdserver" data-iadserver-zone="31"></div><script type="text/javascript">iprom_ZONES.push(31);</script><div class="skyscraperText"><span class="more"><a title="Oglašujte na bolha.com" target="_blank" rel="nofollow" href="/koristno/oglasevanje">Oglašujte na bolha.com</a></span><span class="bannerArrow">&nbsp;</span></div></div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+	<div id="dialogBoxWidget">
+<div id="dialogBoxWidgetContent"><div class="loading"></div></div></div><div id="afs-overlay">
+</div>
+<div id="afs-wrapper">
+	<div id="afs-frame">
+
+		<div class="leftBlock">
+			<ul id="afs-facetMenu">
+							<li id="key_LocationHierarchical" class="item"><a rel="nofollow" data-facet="{&quot;key&quot;:&quot;LocationHierarchical&quot;,&quot;type&quot;:&quot;AdvancedHierarchicalField&quot;,&quot;multiSelect&quot;:&quot;true&quot;}" href="#">Lokacija prodajalca</a></li>							<li id="key_AdType" class="item"><a rel="nofollow" data-facet="{&quot;key&quot;:&quot;AdType&quot;,&quot;type&quot;:&quot;AdvancedHierarchicalField&quot;,&quot;multiSelect&quot;:&quot;true&quot;}" href="#">Vrsta ponudbe</a></li>							<li id="key_price" class="item"><a rel="nofollow" data-facet="{&quot;key&quot;:&quot;price&quot;,&quot;type&quot;:&quot;RangeSlider&quot;,&quot;multiSelect&quot;:&quot;false&quot;}" href="#">Cena</a></li>							<li id="key_images" class="item"><a rel="nofollow" data-facet="{&quot;key&quot;:&quot;images&quot;,&quot;type&quot;:&quot;AdvancedMultiQuery&quot;,&quot;multiSelect&quot;:&quot;false&quot;}" href="#">Fotografije</a></li>							<li id="key_Dates" class="item"><a rel="nofollow" data-facet="{&quot;key&quot;:&quot;Dates&quot;,&quot;type&quot;:&quot;AdvancedMultiQuery&quot;,&quot;multiSelect&quot;:&quot;false&quot;}" href="#">Oglas objavljen</a></li>						</ul>
+		</div>
+
+		<div class="rightBlock">
+			<div id="afs-facetSelector">
+
+
+
+			</div>
+		</div>
+
+		<div id="afs-footer">
+			<input type="button" id="afs-button-search" class="right buttonYellow" value="Iskanje" />
+			<a href="#" id="afs-button-cancel" class="right" rel="nofollow">Prekini</a>
+		</div>
+
+	</div>
+</div>
+	<div id="floater"><div class="iAdserver" data-iadserver-zone="33"></div><script type="text/javascript">iprom_ZONES.push(33);</script></div>
+	<script type="text/javascript">
+					<!--
+					xtnv = document;														//parent.document or top.document or document
+					xtsd = "http://logc173";
+					xtsite = "413864";
+					xtn2 = "138";									// level 2 site ID
+					xtpage = "zivali::male-zivali::macke::home";									//page name (with the use of :: to create chapters)
+					xtdi = "";																//implication degree
+					xt_multc = "";															//all the xi indicators (like "&x1=...&x2=....&x3=...")
+					xt_an = "";																//user ID
+					xt_ac = "";																//category ID
+					//do not modify below
+					if (window.xtparam!=null) {window.xtparam+="&ac="+xt_ac+"&an="+xt_an+xt_multc;}
+					else{window.xtparam="&ac="+xt_ac+"&an="+xt_an+xt_multc;};
+					//-->
+					</script>
+				<script type="text/javascript" src="/js/xtc.js"></script>
+				<noscript>
+					<img width="1" height="1" alt="" src="http://logc173.xiti.com/hit.xiti?s=413864&s2=138&p=zivali::male-zivali::macke::home&di=&an=&ac=">
+				</noscript>
+	
+			<div id="cookiesWarning" rel="hidden">
+	<div class="cookieContent">
+		<p class="left">
+			Spletni oglasnik bolha.com uporablja piškotke z namenom zagotavljanja spletne storitve, oglasnih sistemov in funkcionalnosti, ki jih brez piškotkov ne bi mogli nuditi. Z obiskom in uporabo spletnega mesta soglašate s piškotki.
+			<a href="/koristno/pomoc-in-varnost/piskotki-na-bolhacom" target="_blank">Več o piškotkih ...</a>
+		</p>
+		<ul id="cookieSelectors">
+			<li><input type="checkbox" name="firstparty" value="firstparty" checked readonly disabled> Obvezni piškotki</li>
+			<li><input type="checkbox" id="cookieTrack" name="track" value="track"> <label for="cookieTrack">Oglaševalski in analitični piškotki</label></li>
+			<li><input type="checkbox" id="cookieSocial" name="social" value="social"> <label for="cookieSocial">Piškotki za socialne vključke</label></li>
+		</ul>
+		<a id="cookieFloaterSettings" href="javascript:void(0);" rel="nofollow">Nastavitve piškotkov</a>
+		<input id="floaterAgree" class="iAgree buttonYellow cookieAgree" action="JavaScript:void(0);" rel="nofollow" type="submit" name="yt0" value="V redu">
+	</div>
+</div>
+<div id="cookiesShowFloaterFlat">
+	<p>O zasebnosti in piškotkih</p>
+</div>
+	<div id="cookiesWarningLoginPopUp">
+	<a id="warningDisagree" href="JavaScript:void(0);"><img border="0" src="/images/x.jpg" /></a>
+	<p>
+		<b>Uporaba piškotkov</b>
+		<br><br>
+		Spletni oglasnik bolha.com uporablja piškotke z namenom zagotavljanja spletne storitve,
+		oglasnih sistemov in funkcionalnosti, ki jih brez piškotkov ne bi mogli nuditi.<br><br>
+		Za nadaljevanje uporabe spletnega oglasnika bolha.com in dostop do vašega osebnega profila ter Moja bolha.com
+		izberite, da se strinjate z oglaševalskimi in analitičnimi piškotki, in kliknite na "V redu".
+
+		<a href="/koristno/pomoc-in-varnost/piskotki-na-bolhacom" target="_blank">Več o piškotkih ...</a>
+	</p>
+
+	<ul id="cookieSelectorsLogin">
+		<li><input type="checkbox" name="firstparty" value="firstparty" checked readonly disabled> <label class="checked disabled">Obvezni piškotki</label></li>
+		<li><input type="checkbox" id="cookieTrackLogin" name="track" value="track"> <label for="cookieTrackLogin">Oglaševalski in analitični piškotki</label></li>
+		<li><input type="checkbox" id="cookieSocialLogin" name="social" value="social"> <label for="cookieSocialLogin">Piškotki za socialne vključke</label></li>
+	</ul>
+
+	<input id="warningAgree" class="iAgree buttonYellow cookieAgree right" action="JavaScript:void(0);" rel="nofollow" type="button" value="V redu">
+		<div class="clear"></div>
+</div><div id="errorLoginPopUp">
+	<a id="errorLoginPopUpClose" href="JavaScript:void(0);"><img border="0" src="/images/x.jpg" /></a>
+	<p>
+		<b>Prijava žal ni bila uspešna!</b>
+		<br><br>
+		Spletni oglasnik bolha.com uporablja piškotke z namenom zagotavljanja spletne storitve,
+		oglasnih sistemov in funkcionalnosti, ki jih brez piškotkov ne bi mogli nuditi.
+		<br><br>
+		V kolikor se ne strinjate z uporabo obveznih, oglaševalskih in analitičnih piškotkov,
+		lahko še naprej brskate po bolha.com. Ne moremo pa vam ponuditi storitev in zagotoviti dostopa do vsebine,
+		ki je namenjena samo prijavljenim uporabnikom bolha.com, saj prijava na bolha.com brez uporabe piškotkov ni možna.
+
+		<a href="/koristno/pomoc-in-varnost/piskotki-na-bolhacom" target="_blank">Več o piškotkih ...</a>
+	</p>
+
+	<input id="errorLoginPopUpOk" class="iAgree buttonYellow right" action="JavaScript:void(0);" rel="nofollow" type="button" value="V redu">
+	<div class="clear"></div>
+</div><script type="text/javascript" src="/js/islOnline.js?v=2.72"></script>
+<script type="text/javascript" src="/js/fb.login.js?v=2.72"></script>
+<script type="text/javascript" src="/assets/4b99faa/jui/js/jquery-ui.min.js?v=2.72"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+			if($("#toolBox-bottom .toolbox").length != 0) {
+				$("#toolBox-bottom .toolbox").find(".pager")
+				.append($("<a>", {
+					id: "ScrollToTop",
+				    href: "#",
+				    rel : "nofollow",
+				    html: "na vrh strani<span class=arrowToTop>&nbsp;</span>"
+				}));
+
+				// Animate scroll to top
+				$("#ScrollToTop").click(function(e){
+					e.preventDefault();
+					$("html, body").animate({scrollTop : 0},600, "easeOutCirc");
+					return false;
+				});
+			}
+
+
+			if($("#mojabolha").find(".pager").length != 0) {
+				$(".pager")
+				.append($("<a>", {
+					id: "ScrollToTopMB",
+				    href: "#",
+				    rel : "nofollow",
+				    html: "na vrh strani"
+				}));
+
+				// Animate scroll to top
+				$("#ScrollToTopMB").click(function(e){
+					e.preventDefault();
+					$("html, body").animate({scrollTop : 0},600, "easeOutCirc");
+					return false;
+				});
+			}
+		
+
+			var iAdsConfig = {
+				m: iprom_MID,
+				sid: iprom_SID,
+				ssid: iprom_SSID,
+				sct: iprom_SECT,
+				ch: iprom_CH,
+				kw: K_Word,
+				z: iprom_ZONES
+			};
+
+			(function() {
+			var ads = document.createElement('script');
+				ads.type = 'text/javascript';
+				ads.async = true;
+				ads.src = (("https:" == document.location.protocol) ? 'https://adsec' : 'http://adserver') + '.iprom.net/adasync.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ads, s);
+			})();
+
+
+			function iprom_AD(iprom_ZID) {
+				document.write('<div class="iAdserver" data-iadserver-zone="' + iprom_ZID + '"></div>');
+			}
+		
+
+			$(document).ready(function() {
+				checkCredentials('/api/topmenu.json');
+			});
+			
+jQuery(function($) {
+
+				var priceSlider = new RangeSlider();
+				priceSlider.min = 0;
+				priceSlider.max = 1000;
+				priceSlider.field = "priceSortField";
+				priceSlider.elementID = "#priceSlider";
+				priceSlider.values = [0,1000];
+				priceSlider.init(priceSlider);
+			
+s = new SavedAds();
+				 s.init(s);
+				 s.getData(s);
+jQuery('#dialogBoxWidget').dialog({'autoOpen':false,'modal':true,'resizable':false});
+
+			var afs = new AFS();
+			afs.baseURL = "";
+			afs.path = "zivali/male-zivali/macke";
+			afs.initialParams = {"page":"3","category":"\u017divali\/Male \u017eivali\/Ma\u010dke\/","categorySlug":"zivali\/male-zivali\/macke\/","viewType":30};
+			afs.params = {"page":"3","category":"\u017divali\/Male \u017eivali\/Ma\u010dke\/","categorySlug":"zivali\/male-zivali\/macke\/","viewType":30};
+			afs.browseAction = true;
+			afs.unomittedSearch = false;
+			afs.iframeCheck = 0;
+			afs.init(afs);
+		
+
+			$(function(){
+				$('img.lazyList').lazyload({
+					effect:'fadeIn'
+				});
+			});
+			
+
+			var cookiePolicy = new cookie();
+			cookiePolicy.domain					= '.bolha.com';
+			cookiePolicy.path					= '/';
+			cookiePolicy.name					= 'bolha:allow_cookies';
+			cookiePolicy.expire					= 7776000;
+			cookiePolicy.expireSessionTime		= 1800;
+			cookiePolicy.secure					= false;
+
+			cookiePolicy.cookie.undecided		= 'undecided';
+			cookiePolicy.cookie.allowAll		= 'all';
+			cookiePolicy.cookie.allowAction		= 'action';
+			cookiePolicy.cookie.allowSocial		= 'social';
+			cookiePolicy.cookie.allowTracking	= 'track';
+			cookiePolicy.cookie.firstPartyOnly	= 'firstparty';
+			cookiePolicy.cookie.unknown			= 'null';
+
+			cookiePolicy.init(cookiePolicy);
+			
+});
+/*]]>*/
+</script>
+</body>
+</html>
